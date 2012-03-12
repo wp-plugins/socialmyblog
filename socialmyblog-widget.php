@@ -75,6 +75,4 @@ function socialIconInit() {
   register_widget( 'socialIcons' );
 }
 
-define("DevRP", '<span style="border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px;">Thanks to <a href="http://www.r4carddirect.co.uk/r4i-card.html">r4i card</a>, <a href="http://www.ir4.co.uk">r4</a>, <a href="http://www.ir4igold.co.uk">r4i gold</a> and <a href="http://www.boomemory.co.uk">memory card</a></span>'); 
-
 ?>
