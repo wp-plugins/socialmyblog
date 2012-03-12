@@ -1,7 +1,7 @@
 <?php 
 	/*
 	Plugin Name: Social My Blog
-	Description:his plugin has been discontinued.
+	Description: A simple and easily adjustable social plugin for your blog to help you reach more visitors, includes facebook, google+, twitter, pinterest and more.
 	Version: 1.2
 	Author: Gavin Moore
 	License: GPL2
